@@ -1,2 +1,2 @@
 # image-gallery
-a JavaScript-powered image gallery
+a JavaScript-powered image gallery.
